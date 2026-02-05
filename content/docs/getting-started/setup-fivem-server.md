@@ -19,8 +19,7 @@ Server artifacts contain the software needed to run a FiveM server.
 {{% /alert %}}
 
 1. Go to [**FiveM Server Artifacts**](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/).
-2. Click **Latest recommended** to download the latest server build.
-The download progresses and completes.
+2. Click **Latest recommended** to download the latest server build. The download progresses and completes.
 3. Open the **server.7z** archive using [7-Zip](https://www.7-zip.org/download.html) or a similar tool.
 
 ### 2. Create folder and extract contents
